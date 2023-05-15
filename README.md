@@ -3,7 +3,7 @@
 </p>
 <br/><br/>
 <h1 align="center">Atualmente Estudando</h1> 
-<br/><br/>
+<br/>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="75" height="75" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75" height="75" alt="JavaScript" />
