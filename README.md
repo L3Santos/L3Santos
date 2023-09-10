@@ -7,7 +7,7 @@
 
 <h2> More about me </h2> 
 
-<img align="right" width="300" height="230" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="300" height="220" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```Js
 function L3Santos() {
@@ -21,6 +21,7 @@ function L3Santos() {
     ];
 }
 ```
+</br>
 
 <h2  align="center"> 
   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height=32px >  
