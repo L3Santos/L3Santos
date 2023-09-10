@@ -1,11 +1,10 @@
-<h2> About Me ✌️</h2>
+<h2 align="center"> More about me ✌️</h2>
 
+<div align="left>
+    
 - 🌱 I'm currently learning Front in React, Next and Vue and Back in Node
 
-<h2> Connect with me 🤝</h2> 
-<a href = 'https://www.instagram.com/luka_santos_/'> <img width = '32px' align= 'center' src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg"/>  
-
-<h2> More about me </h2> 
+</div>
 
 <img align="right" width="300" height="220" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
@@ -22,6 +21,24 @@ function L3Santos() {
 }
 ```
 </br>
+
+<h2 align="center"> Connect with me 🤝</h2> 
+<p align="center">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
+
+  <a href="#" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="https://wa.me/5586998182110" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+
+  <a href="#" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
+
+  <a href="https://www.instagram.com/luka_santos_/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/luka_santos_/"/></a>
+</p>
 
 <h2  align="center"> 
   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height=32px >  
@@ -50,3 +67,4 @@ function L3Santos() {
 [![iuricode](https://github-readme-stats.vercel.app/api?username=L3Santos&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
