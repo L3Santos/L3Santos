@@ -54,7 +54,7 @@ function L3Santos() {
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code>
 </div>
 
-<h2 align="center"> GitHub Stats </h2>
+<h2 align="center"> GitHub Status </h2>
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=L3Santos&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D"></img>
 </p>
