@@ -22,10 +22,10 @@ function L3Santos() {
 
 <h2 align="center"> Connect with me 🤝</h2> 
 <p align="center">
-  <a href="#" alt="Gmail">
+  <a href="mailto:lucasviniciuscruz2020@gmail.com?subject= contate me&body=" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
 
-  <a href="#" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/lucas-santos0235647/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a href="https://wa.me/5586998182110" alt="WhatsApp">
