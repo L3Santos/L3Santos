@@ -11,11 +11,12 @@ function L3Santos() {
     const name = "Lucas Vinicius Santos Cruz";
     const acknowledgements = "Front-end";
 
-    const languages = [
+    const Technologies = [
         "React", "Next",
         "Vue", "Node",
         "TypeScript", "Sass",
     ];
+
 }
 ```
 </br>
