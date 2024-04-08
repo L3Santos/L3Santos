@@ -1,9 +1,5 @@
 <h2 align="center"> About Me ✌️</h2>
 
-- 🌱 I'm currently learning Front in React, Next and Vue and Back in Node
-
-<h2 align="center"> More about me </h2> 
-
 <img align="right" width="300" height="220" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```Js
@@ -16,7 +12,6 @@ function L3Santos() {
         "Vue", "Node",
         "TypeScript", "Sass",
     ];
-
 }
 ```
 </br>
@@ -47,12 +42,18 @@ function L3Santos() {
 
 <div  align="center">
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
-  <code><img height="45" src="https://github.com/L3Santos/L3Santos/assets/126369908/a3134062-6942-4f6c-a481-2eefe9bf1d93"></code>
-  <code><img height="45" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/vuejs.svg"></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></code>
+  
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"></code>
-  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
-  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"></code>
-  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /></code>
+
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" /></code>
 </div>
 
 <h2 align="center"> GitHub Status </h2>
