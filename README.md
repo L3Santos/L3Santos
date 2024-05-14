@@ -10,7 +10,7 @@ function L3Santos() {
     const Technologies = [
         "React", "Next",
         "Vue", "Node",
-        "TypeScript", "Sass",
+        "TypeScript", "Sass"
     ];
 }
 ```
