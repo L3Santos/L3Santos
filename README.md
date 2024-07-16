@@ -1,19 +1,4 @@
 <h2 align="center"> About Me ✌️</h2>
-
-<img align="right" width="300" height="220" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-```Js
-function L3Santos() {
-    const name = "Lucas Vinicius Santos Cruz";
-    const acknowledgements = "Front-end";
-
-    const Technologies = [
-        "React", "Next",
-        "Vue", "Node",
-        "TypeScript", "Sass"
-    ];
-}
-```
 </br>
 
 <h2 align="center"> Connect with me 🤝</h2> 
@@ -50,10 +35,11 @@ function L3Santos() {
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"></code>
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /></code>
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></code>
-  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></code>
 
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></code>
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" /></code>
+  <code><img height="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" /></code>
 </div>
 
 <h2 align="center"> GitHub Status </h2>
