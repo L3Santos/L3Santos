@@ -1,5 +1,11 @@
 <h2 align="center"> About Me ✌️</h2>
 </br>
+<div align="center">
+  - 🔭 Atualmente estou trabalhando com Java e SQL. 
+  </br>
+  - 🌱 Atualmente estou aprendendo Rest API e Quarkus
+</div>
+
 
 <h2 align="center"> Connect with me 🤝</h2> 
 <p align="center">
