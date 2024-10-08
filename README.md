@@ -1,7 +1,7 @@
 <h2 align="center"> About Me ✌️</h2>
 </br>
 <div align="center">
-  - 🔭 Atualmente estou trabalhando com Java e SQL. 
+  - 🔭 Atualmente estou trabalhando com Java e PrimeFaces. 
   </br>
   - 🌱 Atualmente estou aprendendo Rest API e Quarkus
 </div>
