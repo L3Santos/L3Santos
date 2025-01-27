@@ -3,7 +3,7 @@
 <div align="center">
   - 🔭 Atualmente estou trabalhando com Java e PrimeFaces. 
   </br>
-  - 🌱 Atualmente estou aprendendo Rest API e Quarkus
+  - 🌱 Atualmente estou aprendendo e usando Quarkus
 </div>
 
 
