@@ -1,14 +1,15 @@
 <h2 align="center"> About Me ✌️</h2>
 </br>
 <div align="center">
-  - 🔭 Atualmente estou trabalhando com Java e PrimeFaces. 
-  </br>
-  - 🌱 Atualmente estou aprendendo e usando Quarkus
-</div>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-
-<h2 align="center"> Connect with me 🤝</h2> 
-<p align="center">
+  <p align="left"> 
+    🔭 Atualmente estou trabalhando com Java e PrimeFaces. 
+  <br/>
+    🌱 Atualmente estou aprendendo e usando Quarkus
+  </p>
+  
+  <p align="left">
   <a href="mailto:lucasviniciuscruz2020@gmail.com?subject= contate me&body=" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
 
@@ -23,11 +24,18 @@
 
   <a href="https://www.instagram.com/luka_santos_/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/luka_santos_/"/></a>
-</p>
+  </p>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 
 <h2  align="center"> 
   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height=32px >  
-  Technologies 
+  Technologies And GitHub Profile Trophy
   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height=32px >
 </h2>
 
@@ -49,17 +57,28 @@
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></code>
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" /></code>
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" /></code>
-</div>
-          
+
+   <div align="right">
+   <p align="center">
+    <a
+      href="https://github.com/ryo-ma/github-profile-trophy"
+      title="repositório de troféus"
+    >
+      <img
+        width="800"
+        src="https://github-profile-trophy.vercel.app/?username=L3Santos&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      />
+    </a>
+  </p>
+ </div>
+</div>          
 
 <h2 align="center"> GitHub Status </h2>
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=L3Santos&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D"></img>
-</p>
-
 <div align="center">
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=L3Santos&theme=dark&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=L3Santos&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D"></img>
 [![iuricode](https://github-readme-stats.vercel.app/api?username=L3Santos&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
